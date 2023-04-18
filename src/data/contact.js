@@ -7,11 +7,6 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/asarefinn',
-    label: 'Github',
-    icon: faGithub,
-  },
-  {
     link: 'https://facebook.com/ayofinn',
     label: 'Facebook',
     icon: faFacebookF,
@@ -20,16 +15,6 @@ const data = [
     link: 'https://www.instagram.com/candycoughfinn/',
     label: 'Instagram',
     icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/error',
-    label: 'LinkedIn',
-    icon: faLinkedinIn,
-  },
-  {
-    link: 'https://angel.co/error',
-    label: 'Angel List',
-    icon: faAngellist,
   },
   {
     link: 'https://twitter.com/ayofinn',
