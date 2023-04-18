@@ -21,8 +21,6 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Finn. I am a student and a tech enthusiast and wellcome to my website.
       </p>
-      <ul className="actions">
-      </ul>
     </section>
 
     <section id="footer">
