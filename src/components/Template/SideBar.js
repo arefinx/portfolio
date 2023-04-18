@@ -19,11 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hi, I&apos;m Finn. I am a student and a tech enthusiast and wellcome to my website.
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Ahmed Arefin <Link to="/">arefin2.vercel.app</Link>.</p>
     </section>
   </section>
 );
