@@ -12,8 +12,8 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Ahmed Arefin</h2>
+        <p><a href="mailto:ahmedarefinsajjad@gmail.com">arefin@finn.com</a></p>
       </header>
     </section>
 
@@ -30,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Ahmed Arefin <Link to="/">arefin2.vercel.app</Link>.</p>
+      <p className="copyright">&copy; Ahmed Arefin <Link to="/"> </Link>.</p>
     </section>
   </section>
 );
