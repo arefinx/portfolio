@@ -21,11 +21,7 @@ const data = [
   },
   {
     label: 'All rights reserved by',
-    value: '2023 ® Finn Corp.',
-  },
-  {
-    label: 'Contact me',
-    value: 'if you need a webpage or any kind of webpage.',
+    value: '2023 © Finn Corp.',
   },
 ];
 
