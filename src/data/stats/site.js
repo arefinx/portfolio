@@ -1,50 +1,31 @@
-import dayjs from 'dayjs';
-
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
  curl https://api.github.com/repos/mldangelo/personal-site
  */
 const data = [
   {
-    label: 'This is a test',
-    value: 'pass',
+    label: 'The date this site was created',
+    value: 'Wednessday - April 19 - 2023',
   },
   {
-    label: 'Number of people watching this repository',
-    key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    label: 'The purpose of this webpage',
+    value: 'This was actually done as a fun project',
   },
   {
-    label: 'Number of forks',
-    key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    label: 'This webpage is based on',
+    value: 'JavaScript and SCSS and a little bit of HTML',
   },
   {
-    label: 'Number of spoons',
-    value: '0',
+    label: 'This webpage was updated on',
+    value: 'Wednessday - April 19 - 2023',
   },
   {
-    label: 'Number of linter warnings',
-    value: '0', // enforced via github workflow
+    label: 'All rights reserved by',
+    value: '2023 ® Finn Corp.',
   },
   {
-    label: 'Open github issues',
-    key: 'open_issues_count',
-    link: 'https://github.com/mldangelo/personal-site/issues',
-  },
-  {
-    label: 'Last updated at',
-    key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
-    format: (x) => dayjs(x).format('MMMM DD, YYYY'),
-  },
-  {
-    // TODO update this with a pre-commit hook
-    /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
-    xargs -I file cat file | wc -l */
-    label: 'Lines of Javascript powering this website',
-    value: '2150',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    label: 'Contact me',
+    value: 'if you need a webpage or any kind of webpage.',
   },
 ];
 
