@@ -6,12 +6,12 @@ Here are some fun information about me below.
 
 # I like
 
-* Books
-* Movies
-* Music
-* Space
-* Summer
-* Photography
+* Beach 🏖️
+* Books 📖
+* Movies 🎬
+* Music 🎧
+* Space 🌌
+* Photography 📷
 
 # Fun facts
 
