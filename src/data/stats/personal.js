@@ -21,17 +21,17 @@ const Age = () => {
 const data = [
   {
     key: 'age',
-    label: 'Current age',
+    label: 'Age',
     value: <Age />,
   },
   {
-    key: 'countries',
-    label: 'Countries visited',
-    value: '1',
+    key: 'languages',
+    label: 'Languages spoken',
+    value: 'Bengali, English, Japanese, Spanish',
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Location',
     value: 'Dhaka, Bangladesh',
   },
 ];

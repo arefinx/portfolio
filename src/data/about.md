@@ -2,6 +2,7 @@
 # Intro
 
 I am a student and a tech enthusiast residing in Pallet Town :D (pun intended).
+Here are some fun information about me below.
 
 # I like
 
@@ -14,7 +15,7 @@ I am a student and a tech enthusiast residing in Pallet Town :D (pun intended).
 
 # Fun facts
 
-* I always get lost, some people call me Zoro for that reason 😆
+* I always get lost, some people call me Zoro for that reason 😆.
 * I am a big fan of Dragon Ball!
 * I dream of raising an organization for helping people.
 * I sometimes think I am a Saiyan 💀.
@@ -23,5 +24,5 @@ I am a student and a tech enthusiast residing in Pallet Town :D (pun intended).
 
 * Finding inspirations and new ideas.
 * Enabling a brighter future.
+* Giving my absolute best.
 * Improving myself.
-* You not checking the commit history for earlier drafts of this file.

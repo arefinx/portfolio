@@ -17,11 +17,11 @@ const data = [
   },
   {
     label: 'This webpage was updated on',
-    value: 'Wednessday - April 19 - 2023',
+    value: 'Friday - August 11 - 2023',
   },
   {
     label: 'All rights reserved by',
-    value: '2023 © Finn Corp.',
+    value: '2023 © Capsule Corporation.',
   },
 ];
 
