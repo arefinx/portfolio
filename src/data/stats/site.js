@@ -17,7 +17,7 @@ const data = [
   },
   {
     label: 'This webpage was updated on',
-    value: 'Friday - August 11 - 2023',
+    value: 'Friday - December 1 - 2023',
   },
   {
     label: 'All rights reserved by',

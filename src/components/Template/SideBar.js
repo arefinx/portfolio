@@ -9,11 +9,11 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Ahmed Arefin</h2>
-        <p><a href="mailto:ahmedarefinsajjad@gmail.com">mail@arefin.com</a></p>
+        <h2>Arefin</h2>
+        <p><a href="mailto:finnxvoid@gmail.com">mail@arefin.com</a></p>
       </header>
     </section>
 
@@ -25,7 +25,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Ahmed Arefin <Link to="/"> </Link>.</p>
+      <p className="copyright">&copy; Arefin <Link to="/"> </Link>.</p>
     </section>
   </section>
 );

@@ -15,10 +15,9 @@ Here are some fun information about me below.
 
 # Fun facts
 
-* I always get lost, some people call me Zoro for that reason 😆.
+* I can walk a lot without complaining.
 * I am a big fan of Dragon Ball!
 * I dream of raising an organization for helping people.
-* I sometimes think I am a Saiyan 💀.
 
 # I am interested in
 
