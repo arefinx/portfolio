@@ -20,8 +20,6 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Welcome to my portfolio! I am Arefin, a student by day and web developer by night.</p>
-      <p>Through my work, I strive to make a difference.</p>
-      <p>Join me in my creative journeys and projects.</p>
     </section>
 
     <section id="footer">
