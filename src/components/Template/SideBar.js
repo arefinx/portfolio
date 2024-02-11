@@ -9,17 +9,17 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me2.jpg`} alt="" />
       </Link>
       <header>
         <h2>Arefin</h2>
-        <p><a href="mailto:finnxvoid@gmail.com">mail@arefin.com</a></p>
+        <p><a href="mailto:ahmedarefinsajjad@gmail.com">mail@arefin.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Arefin. I am a student and a tech enthusiast and welcome to my website.
+      <p>Welcome to my portfolio! I am Arefin, a student by day and web developer by night. Through my work, I strive to make a difference. Explore my portfolio to discover my creative journey and projects.
       </p>
     </section>
 
