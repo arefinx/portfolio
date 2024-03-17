@@ -8,21 +8,25 @@ date: 2021-03-19
 
 import Image from 'next/image'
 
-<Image
-  src="/images/pfp.jpeg"
-  alt="Photo"
-  width={150}
-  height={150}
-  priority
-  className="rounded-image"
-/>
+<div className="rounded-image">
+  <Image
+    src="/images/pfp.jpeg"
+    alt="Photo"
+    width={150}
+    height={150}
+    priority
+  />
+</div>
 
 <style jsx>{`
   .rounded-image {
     border-radius: 50%;
     overflow: hidden;
+    width: 150px;
+    height: 150px;
   }
 `}</style>
+
 
 
 Hey, I'm a Senior Software Engineer at Company. I enjoy working with Next.js and crafting beautiful front-end experiences.
