@@ -14,8 +14,16 @@ import Image from 'next/image'
   width={1125}
   height={750}
   priority
-  className="next-image"
+  className="next-image rounded-image" // Adding a class name for styling
 />
+
+<style jsx>{`
+  .rounded-image {
+    border-radius: 50%; // Applying border-radius to make the image round
+    overflow: hidden; // Ensuring the image stays within the rounded border
+  }
+`}</style>
+
 
 Hey, I'm a Senior Software Engineer at Company. I enjoy working with Next.js and crafting beautiful front-end experiences.
 
